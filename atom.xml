@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ropchain | blog]]></title>
+  <link href="http://ropchains.github.io/atom.xml" rel="self"/>
+  <link href="http://ropchains.github.io/"/>
+  <updated>2015-04-15T21:59:59+01:00</updated>
+  <id>http://ropchains.github.io/</id>
+  <author>
+    <name><![CDATA[nootropics]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://ropchains.github.io/blog/hello-world/"/>
+    <updated>2015-04-15T21:39:09+01:00</updated>
+    <id>http://ropchains.github.io/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>Hey!</p>
+
+<figure class='code'><figcaption><span>Testing code syntax! - hello.py </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='py'><span class='line'><span class="c">#!/usr/bin/env python</span>
+</span><span class='line'><span class="k">print</span><span class="p">(</span><span class="s">&quot;Hello, world!&quot;</span><span class="p">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
