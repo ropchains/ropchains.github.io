@@ -4,7 +4,7 @@
   <title><![CDATA[ropchain | blog]]></title>
   <link href="http://ropchains.github.io/atom.xml" rel="self"/>
   <link href="http://ropchains.github.io/"/>
-  <updated>2015-04-15T22:25:44+01:00</updated>
+  <updated>2015-04-15T22:27:05+01:00</updated>
   <id>http://ropchains.github.io/</id>
   <author>
     <name><![CDATA[nootropics]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello world]]></title>
-    <link href="http://ropchains.github.io/post/hello-world/"/>
+    <link href="http://ropchains.github.io/blog/hello-world/"/>
     <updated>2015-04-15T22:22:06+01:00</updated>
-    <id>http://ropchains.github.io/post/hello-world</id>
+    <id>http://ropchains.github.io/blog/hello-world</id>
     <content type="html"><![CDATA[<p>Hey! I&rsquo;m using print() as a function rather than a statement to irritate Sanae with the likeness to python 3&rsquo;s syntax, you&rsquo;re welcome man &lt;3</p>
 
 <figure class='code'><figcaption><span>best friends<3 - test.py </span></figcaption>
