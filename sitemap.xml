@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://ropchains.github.io/hello-world/</loc>
-    <lastmod>2015-04-15T21:39:09+01:00</lastmod>
+    <loc>http://ropchains.github.io/post/hello-world/</loc>
+    <lastmod>2015-04-15T22:22:06+01:00</lastmod>
   </url>
   <url>
     <loc>http://ropchains.github.io/blog/archives/</loc>
